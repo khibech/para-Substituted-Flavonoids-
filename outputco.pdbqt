@@ -1,0 +1,400 @@
+MODEL 1
+REMARK VINA RESULT:      -8.0      0.000      0.000
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\co.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_3  and  C12_17
+REMARK    2  A    between atoms: C4_9  and  C6_11
+REMARK    3  A    between atoms: C13_18  and  C17_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   A1A A 401     -13.397  12.925  -0.623  0.00  0.00    +0.000 NA
+ATOM      2  C   A1A A 401     -13.830  14.152  -0.167  0.00  0.00    +0.000 A 
+ATOM      3  C1  A1A A 401     -11.798  14.545   1.084  0.00  0.00    +0.000 A 
+ATOM      4  N1  A1A A 401     -13.056  14.939   0.663  0.00  0.00    +0.000 N 
+ATOM      5  C2  A1A A 401     -11.393  13.289   0.676  0.00  0.00    +0.000 A 
+ATOM      6  N2  A1A A 401     -13.676  16.113   1.024  0.00  0.00    +0.000 NA
+ATOM      7  C3  A1A A 401     -12.210  12.525  -0.169  0.00  0.00    +0.000 A 
+ATOM      9  C4  A1A A 401     -15.047  14.893  -0.344  0.00  0.00    +0.000 A 
+ATOM     10  C5  A1A A 401     -14.846  16.060   0.409  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  17
+ATOM      8  N3  A1A A 401     -11.176  15.513   3.174  0.00  0.00    +0.000 NA
+ATOM     17  C12 A1A A 401     -11.016  15.527   1.838  0.00  0.00    +0.000 A 
+ATOM     18  C13 A1A A 401     -10.134  16.448   1.159  0.00  0.00    +0.000 A 
+ATOM     19  C14 A1A A 401      -9.397  17.301   1.971  0.00  0.00    +0.000 A 
+ATOM     20  C15 A1A A 401      -9.541  17.267   3.347  0.00  0.00    +0.000 A 
+ATOM     21  C16 A1A A 401     -10.444  16.378   3.897  0.00  0.00    +0.000 A 
+ATOM     22  C17 A1A A 401     -10.037  16.543  -0.344  0.00  0.00    +0.000 C 
+ENDBRANCH   3  17
+BRANCH   9  11
+ATOM     11  C6  A1A A 401     -16.350  14.754  -1.087  0.00  0.00    +0.000 C 
+ATOM     12  C7  A1A A 401     -17.257  13.640  -0.558  0.00  0.00    +0.000 C 
+ATOM     13  C8  A1A A 401     -18.625  13.656  -1.245  0.00  0.00    +0.000 C 
+ATOM     14  C9  A1A A 401     -18.494  13.590  -2.762  0.00  0.00    +0.000 C 
+ATOM     15  C10 A1A A 401     -17.558  14.676  -3.285  0.00  0.00    +0.000 C 
+ATOM     16  C11 A1A A 401     -16.190  14.627  -2.604  0.00  0.00    +0.000 C 
+ENDBRANCH   9  11
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.5      4.923      6.298
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\co.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_3  and  C12_17
+REMARK    2  A    between atoms: C4_9  and  C6_11
+REMARK    3  A    between atoms: C13_18  and  C17_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   A1A A 401     -18.173  18.423  -0.280  0.00  0.00    +0.000 NA
+ATOM      2  C   A1A A 401     -17.080  18.040  -1.027  0.00  0.00    +0.000 A 
+ATOM      3  C1  A1A A 401     -16.201  20.290  -1.126  0.00  0.00    +0.000 A 
+ATOM      4  N1  A1A A 401     -16.122  18.945  -1.440  0.00  0.00    +0.000 N 
+ATOM      5  C2  A1A A 401     -17.328  20.681  -0.431  0.00  0.00    +0.000 A 
+ATOM      6  N2  A1A A 401     -15.126  18.369  -2.194  0.00  0.00    +0.000 NA
+ATOM      7  C3  A1A A 401     -18.274  19.728  -0.029  0.00  0.00    +0.000 A 
+ATOM      9  C4  A1A A 401     -16.651  16.781  -1.569  0.00  0.00    +0.000 A 
+ATOM     10  C5  A1A A 401     -15.462  17.091  -2.247  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  17
+ATOM      8  N3  A1A A 401     -14.034  21.148  -0.614  0.00  0.00    +0.000 NA
+ATOM     17  C12 A1A A 401     -15.053  21.123  -1.492  0.00  0.00    +0.000 A 
+ATOM     18  C13 A1A A 401     -15.044  21.865  -2.732  0.00  0.00    +0.000 A 
+ATOM     19  C14 A1A A 401     -13.885  22.580  -3.009  0.00  0.00    +0.000 A 
+ATOM     20  C15 A1A A 401     -12.827  22.584  -2.118  0.00  0.00    +0.000 A 
+ATOM     21  C16 A1A A 401     -12.951  21.874  -0.938  0.00  0.00    +0.000 A 
+ATOM     22  C17 A1A A 401     -16.228  21.929  -3.664  0.00  0.00    +0.000 C 
+ENDBRANCH   3  17
+BRANCH   9  11
+ATOM     11  C6  A1A A 401     -17.105  15.345  -1.570  0.00  0.00    +0.000 C 
+ATOM     12  C7  A1A A 401     -17.300  14.749  -2.967  0.00  0.00    +0.000 C 
+ATOM     13  C8  A1A A 401     -17.600  13.250  -2.901  0.00  0.00    +0.000 C 
+ATOM     14  C9  A1A A 401     -18.796  12.955  -2.002  0.00  0.00    +0.000 C 
+ATOM     15  C10 A1A A 401     -18.619  13.581  -0.622  0.00  0.00    +0.000 C 
+ATOM     16  C11 A1A A 401     -18.343  15.083  -0.709  0.00  0.00    +0.000 C 
+ENDBRANCH   9  11
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.2      3.810      5.152
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\co.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_3  and  C12_17
+REMARK    2  A    between atoms: C4_9  and  C6_11
+REMARK    3  A    between atoms: C13_18  and  C17_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   A1A A 401     -17.473  19.065  -1.307  0.00  0.00    +0.000 NA
+ATOM      2  C   A1A A 401     -16.498  18.118  -1.537  0.00  0.00    +0.000 A 
+ATOM      3  C1  A1A A 401     -14.724  19.761  -1.537  0.00  0.00    +0.000 A 
+ATOM      4  N1  A1A A 401     -15.164  18.454  -1.651  0.00  0.00    +0.000 N 
+ATOM      5  C2  A1A A 401     -15.709  20.714  -1.367  0.00  0.00    +0.000 A 
+ATOM      6  N2  A1A A 401     -14.355  17.370  -1.904  0.00  0.00    +0.000 NA
+ATOM      7  C3  A1A A 401     -17.051  20.328  -1.254  0.00  0.00    +0.000 A 
+ATOM      9  C4  A1A A 401     -16.536  16.697  -1.738  0.00  0.00    +0.000 A 
+ATOM     10  C5  A1A A 401     -15.193  16.347  -1.943  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  17
+ATOM      8  N3  A1A A 401     -12.681  19.963  -0.320  0.00  0.00    +0.000 NA
+ATOM     17  C12 A1A A 401     -13.275  19.972  -1.527  0.00  0.00    +0.000 A 
+ATOM     18  C13 A1A A 401     -12.551  20.180  -2.760  0.00  0.00    +0.000 A 
+ATOM     19  C14 A1A A 401     -11.172  20.316  -2.645  0.00  0.00    +0.000 A 
+ATOM     20  C15 A1A A 401     -10.559  20.278  -1.405  0.00  0.00    +0.000 A 
+ATOM     21  C16 A1A A 401     -11.347  20.118  -0.281  0.00  0.00    +0.000 A 
+ATOM     22  C17 A1A A 401     -13.226  20.304  -4.104  0.00  0.00    +0.000 C 
+ENDBRANCH   3  17
+BRANCH   9  11
+ATOM     11  C6  A1A A 401     -17.559  15.591  -1.756  0.00  0.00    +0.000 C 
+ATOM     12  C7  A1A A 401     -17.547  14.706  -0.507  0.00  0.00    +0.000 C 
+ATOM     13  C8  A1A A 401     -18.709  13.710  -0.513  0.00  0.00    +0.000 C 
+ATOM     14  C9  A1A A 401     -18.724  12.871  -1.786  0.00  0.00    +0.000 C 
+ATOM     15  C10 A1A A 401     -18.696  13.752  -3.031  0.00  0.00    +0.000 C 
+ATOM     16  C11 A1A A 401     -17.515  14.723  -3.016  0.00  0.00    +0.000 C 
+ENDBRANCH   9  11
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -7.2      2.194      3.808
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\co.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_3  and  C12_17
+REMARK    2  A    between atoms: C4_9  and  C6_11
+REMARK    3  A    between atoms: C13_18  and  C17_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   A1A A 401     -14.565  13.962  -0.543  0.00  0.00    +0.000 NA
+ATOM      2  C   A1A A 401     -13.310  13.474  -0.249  0.00  0.00    +0.000 A 
+ATOM      3  C1  A1A A 401     -12.761  15.370   1.147  0.00  0.00    +0.000 A 
+ATOM      4  N1  A1A A 401     -12.432  14.157   0.570  0.00  0.00    +0.000 N 
+ATOM      5  C2  A1A A 401     -13.995  15.886   0.801  0.00  0.00    +0.000 A 
+ATOM      6  N2  A1A A 401     -11.225  13.515   0.720  0.00  0.00    +0.000 NA
+ATOM      7  C3  A1A A 401     -14.855  15.157  -0.031  0.00  0.00    +0.000 A 
+ATOM      9  C4  A1A A 401     -12.592  12.297  -0.653  0.00  0.00    +0.000 A 
+ATOM     10  C5  A1A A 401     -11.352  12.418  -0.008  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  17
+ATOM      8  N3  A1A A 401     -12.041  15.641   3.406  0.00  0.00    +0.000 NA
+ATOM     17  C12 A1A A 401     -11.808  15.924   2.111  0.00  0.00    +0.000 A 
+ATOM     18  C13 A1A A 401     -10.691  16.727   1.668  0.00  0.00    +0.000 A 
+ATOM     19  C14 A1A A 401      -9.816  17.158   2.658  0.00  0.00    +0.000 A 
+ATOM     20  C15 A1A A 401     -10.042  16.843   3.986  0.00  0.00    +0.000 A 
+ATOM     21  C16 A1A A 401     -11.164  16.104   4.312  0.00  0.00    +0.000 A 
+ATOM     22  C17 A1A A 401     -10.490  17.140   0.231  0.00  0.00    +0.000 C 
+ENDBRANCH   3  17
+BRANCH   9  11
+ATOM     11  C6  A1A A 401     -12.828  11.072  -1.496  0.00  0.00    +0.000 C 
+ATOM     12  C7  A1A A 401     -11.886  10.947  -2.697  0.00  0.00    +0.000 C 
+ATOM     13  C8  A1A A 401     -12.067   9.607  -3.415  0.00  0.00    +0.000 C 
+ATOM     14  C9  A1A A 401     -13.518   9.379  -3.824  0.00  0.00    +0.000 C 
+ATOM     15  C10 A1A A 401     -14.461   9.542  -2.635  0.00  0.00    +0.000 C 
+ATOM     16  C11 A1A A 401     -14.280  10.896  -1.946  0.00  0.00    +0.000 C 
+ENDBRANCH   9  11
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.2      3.004      6.721
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\co.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_3  and  C12_17
+REMARK    2  A    between atoms: C4_9  and  C6_11
+REMARK    3  A    between atoms: C13_18  and  C17_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   A1A A 401     -11.932  12.556  -0.437  0.00  0.00    +0.000 NA
+ATOM      2  C   A1A A 401     -12.961  11.924  -1.102  0.00  0.00    +0.000 A 
+ATOM      3  C1  A1A A 401     -14.597  13.549  -0.378  0.00  0.00    +0.000 A 
+ATOM      4  N1  A1A A 401     -14.255  12.404  -1.073  0.00  0.00    +0.000 N 
+ATOM      5  C2  A1A A 401     -13.578  14.146   0.337  0.00  0.00    +0.000 A 
+ATOM      6  N2  A1A A 401     -15.137  11.617  -1.779  0.00  0.00    +0.000 NA
+ATOM      7  C3  A1A A 401     -12.277  13.627   0.278  0.00  0.00    +0.000 A 
+ATOM      9  C4  A1A A 401     -13.031  10.728  -1.894  0.00  0.00    +0.000 A 
+ATOM     10  C5  A1A A 401     -14.384  10.641  -2.257  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  17
+ATOM      8  N3  A1A A 401     -16.879  13.559   0.322  0.00  0.00    +0.000 NA
+ATOM     17  C12 A1A A 401     -15.968  14.039  -0.544  0.00  0.00    +0.000 A 
+ATOM     18  C13 A1A A 401     -16.294  14.981  -1.590  0.00  0.00    +0.000 A 
+ATOM     19  C14 A1A A 401     -17.611  15.424  -1.626  0.00  0.00    +0.000 A 
+ATOM     20  C15 A1A A 401     -18.541  14.951  -0.717  0.00  0.00    +0.000 A 
+ATOM     21  C16 A1A A 401     -18.138  14.017   0.219  0.00  0.00    +0.000 A 
+ATOM     22  C17 A1A A 401     -15.302  15.434  -2.632  0.00  0.00    +0.000 C 
+ENDBRANCH   3  17
+BRANCH   9  11
+ATOM     11  C6  A1A A 401     -12.098   9.662  -2.405  0.00  0.00    +0.000 C 
+ATOM     12  C7  A1A A 401     -10.846   9.462  -1.547  0.00  0.00    +0.000 C 
+ATOM     13  C8  A1A A 401     -10.025   8.261  -2.024  0.00  0.00    +0.000 C 
+ATOM     14  C9  A1A A 401      -9.670   8.373  -3.502  0.00  0.00    +0.000 C 
+ATOM     15  C10 A1A A 401     -10.914   8.611  -4.353  0.00  0.00    +0.000 C 
+ATOM     16  C11 A1A A 401     -11.707   9.829  -3.875  0.00  0.00    +0.000 C 
+ENDBRANCH   9  11
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.9      3.908      7.447
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\co.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_3  and  C12_17
+REMARK    2  A    between atoms: C4_9  and  C6_11
+REMARK    3  A    between atoms: C13_18  and  C17_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   A1A A 401     -13.127  17.184  -2.517  0.00  0.00    +0.000 NA
+ATOM      2  C   A1A A 401     -14.363  17.635  -2.107  0.00  0.00    +0.000 A 
+ATOM      3  C1  A1A A 401     -15.416  15.496  -2.505  0.00  0.00    +0.000 A 
+ATOM      4  N1  A1A A 401     -15.476  16.817  -2.102  0.00  0.00    +0.000 N 
+ATOM      5  C2  A1A A 401     -14.191  15.064  -2.973  0.00  0.00    +0.000 A 
+ATOM      6  N2  A1A A 401     -16.616  17.463  -1.681  0.00  0.00    +0.000 NA
+ATOM      7  C3  A1A A 401     -13.086  15.927  -2.958  0.00  0.00    +0.000 A 
+ATOM      9  C4  A1A A 401     -14.843  18.909  -1.652  0.00  0.00    +0.000 A 
+ATOM     10  C5  A1A A 401     -16.209  18.693  -1.417  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  17
+ATOM      8  N3  A1A A 401     -17.509  14.699  -3.329  0.00  0.00    +0.000 NA
+ATOM     17  C12 A1A A 401     -16.625  14.691  -2.314  0.00  0.00    +0.000 A 
+ATOM     18  C13 A1A A 401     -16.832  13.946  -1.094  0.00  0.00    +0.000 A 
+ATOM     19  C14 A1A A 401     -17.985  13.172  -1.038  0.00  0.00    +0.000 A 
+ATOM     20  C15 A1A A 401     -18.880  13.158  -2.093  0.00  0.00    +0.000 A 
+ATOM     21  C16 A1A A 401     -18.611  13.942  -3.200  0.00  0.00    +0.000 A 
+ATOM     22  C17 A1A A 401     -15.900  14.024   0.090  0.00  0.00    +0.000 C 
+ENDBRANCH   3  17
+BRANCH   9  11
+ATOM     11  C6  A1A A 401     -14.291  20.282  -1.366  0.00  0.00    +0.000 C 
+ATOM     12  C7  A1A A 401     -14.149  21.170  -2.605  0.00  0.00    +0.000 C 
+ATOM     13  C8  A1A A 401     -13.741  22.597  -2.229  0.00  0.00    +0.000 C 
+ATOM     14  C9  A1A A 401     -12.471  22.615  -1.387  0.00  0.00    +0.000 C 
+ATOM     15  C10 A1A A 401     -12.598  21.699  -0.173  0.00  0.00    +0.000 C 
+ATOM     16  C11 A1A A 401     -12.983  20.274  -0.572  0.00  0.00    +0.000 C 
+ENDBRANCH   9  11
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.9      4.034      4.978
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\co.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_3  and  C12_17
+REMARK    2  A    between atoms: C4_9  and  C6_11
+REMARK    3  A    between atoms: C13_18  and  C17_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   A1A A 401     -14.128  15.839  -2.781  0.00  0.00    +0.000 NA
+ATOM      2  C   A1A A 401     -15.043  16.748  -2.293  0.00  0.00    +0.000 A 
+ATOM      3  C1  A1A A 401     -13.453  18.569  -2.351  0.00  0.00    +0.000 A 
+ATOM      4  N1  A1A A 401     -14.716  18.073  -2.082  0.00  0.00    +0.000 N 
+ATOM      5  C2  A1A A 401     -12.523  17.643  -2.781  0.00  0.00    +0.000 A 
+ATOM      6  N2  A1A A 401     -15.759  18.809  -1.569  0.00  0.00    +0.000 NA
+ATOM      7  C3  A1A A 401     -12.898  16.309  -2.985  0.00  0.00    +0.000 A 
+ATOM      9  C4  A1A A 401     -16.412  16.637  -1.875  0.00  0.00    +0.000 A 
+ATOM     10  C5  A1A A 401     -16.747  17.936  -1.465  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  17
+ATOM      8  N3  A1A A 401     -13.631  20.753  -3.294  0.00  0.00    +0.000 NA
+ATOM     17  C12 A1A A 401     -13.271  20.017  -2.227  0.00  0.00    +0.000 A 
+ATOM     18  C13 A1A A 401     -12.731  20.593  -1.017  0.00  0.00    +0.000 A 
+ATOM     19  C14 A1A A 401     -12.651  21.980  -0.983  0.00  0.00    +0.000 A 
+ATOM     20  C15 A1A A 401     -13.046  22.738  -2.070  0.00  0.00    +0.000 A 
+ATOM     21  C16 A1A A 401     -13.510  22.088  -3.198  0.00  0.00    +0.000 A 
+ATOM     22  C17 A1A A 401     -12.222  19.764   0.136  0.00  0.00    +0.000 C 
+ENDBRANCH   3  17
+BRANCH   9  11
+ATOM     11  C6  A1A A 401     -17.482  15.580  -1.800  0.00  0.00    +0.000 C 
+ATOM     12  C7  A1A A 401     -17.454  14.750  -0.513  0.00  0.00    +0.000 C 
+ATOM     13  C8  A1A A 401     -18.658  13.810  -0.426  0.00  0.00    +0.000 C 
+ATOM     14  C9  A1A A 401     -18.766  12.917  -1.657  0.00  0.00    +0.000 C 
+ATOM     15  C10 A1A A 401     -18.755  13.742  -2.941  0.00  0.00    +0.000 C 
+ATOM     16  C11 A1A A 401     -17.532  14.657  -3.020  0.00  0.00    +0.000 C 
+ENDBRANCH   9  11
+TORSDOF 2
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.8      3.239      6.916
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\co.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_3  and  C12_17
+REMARK    2  A    between atoms: C4_9  and  C6_11
+REMARK    3  A    between atoms: C13_18  and  C17_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   A1A A 401     -13.172  16.638   0.842  0.00  0.00    +0.000 NA
+ATOM      2  C   A1A A 401     -13.989  17.041  -0.192  0.00  0.00    +0.000 A 
+ATOM      3  C1  A1A A 401     -15.250  14.978  -0.167  0.00  0.00    +0.000 A 
+ATOM      4  N1  A1A A 401     -14.998  16.236  -0.685  0.00  0.00    +0.000 N 
+ATOM      5  C2  A1A A 401     -14.391  14.553   0.827  0.00  0.00    +0.000 A 
+ATOM      6  N2  A1A A 401     -15.683  16.810  -1.731  0.00  0.00    +0.000 NA
+ATOM      7  C3  A1A A 401     -13.383  15.404   1.299  0.00  0.00    +0.000 A 
+ATOM      9  C4  A1A A 401     -14.041  18.227  -1.000  0.00  0.00    +0.000 A 
+ATOM     10  C5  A1A A 401     -15.100  17.987  -1.889  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  17
+ATOM      8  N3  A1A A 401     -17.618  14.681  -0.165  0.00  0.00    +0.000 NA
+ATOM     17  C12 A1A A 401     -16.437  14.282  -0.671  0.00  0.00    +0.000 A 
+ATOM     18  C13 A1A A 401     -16.314  13.230  -1.653  0.00  0.00    +0.000 A 
+ATOM     19  C14 A1A A 401     -17.504  12.673  -2.105  0.00  0.00    +0.000 A 
+ATOM     20  C15 A1A A 401     -18.720  13.101  -1.604  0.00  0.00    +0.000 A 
+ATOM     21  C16 A1A A 401     -18.728  14.086  -0.634  0.00  0.00    +0.000 A 
+ATOM     22  C17 A1A A 401     -14.986  12.704  -2.139  0.00  0.00    +0.000 C 
+ENDBRANCH   3  17
+BRANCH   9  11
+ATOM     11  C6  A1A A 401     -13.326  19.549  -1.102  0.00  0.00    +0.000 C 
+ATOM     12  C7  A1A A 401     -12.293  19.790   0.001  0.00  0.00    +0.000 C 
+ATOM     13  C8  A1A A 401     -11.491  21.070  -0.251  0.00  0.00    +0.000 C 
+ATOM     14  C9  A1A A 401     -12.401  22.279  -0.429  0.00  0.00    +0.000 C 
+ATOM     15  C10 A1A A 401     -13.457  22.024  -1.501  0.00  0.00    +0.000 C 
+ATOM     16  C11 A1A A 401     -14.262  20.755  -1.219  0.00  0.00    +0.000 C 
+ENDBRANCH   9  11
+TORSDOF 2
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.7      2.711      3.500
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\co.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_3  and  C12_17
+REMARK    2  A    between atoms: C4_9  and  C6_11
+REMARK    3  A    between atoms: C13_18  and  C17_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   A1A A 401     -14.236  15.316   0.502  0.00  0.00    +0.000 NA
+ATOM      2  C   A1A A 401     -14.760  16.269  -0.345  0.00  0.00    +0.000 A 
+ATOM      3  C1  A1A A 401     -12.926  17.797   0.033  0.00  0.00    +0.000 A 
+ATOM      4  N1  A1A A 401     -14.126  17.474  -0.573  0.00  0.00    +0.000 N 
+ATOM      5  C2  A1A A 401     -12.434  16.868   0.928  0.00  0.00    +0.000 A 
+ATOM      6  N2  A1A A 401     -14.822  18.294  -1.431  0.00  0.00    +0.000 NA
+ATOM      7  C3  A1A A 401     -13.109  15.656   1.127  0.00  0.00    +0.000 A 
+ATOM      9  C4  A1A A 401     -15.963  16.334  -1.126  0.00  0.00    +0.000 A 
+ATOM     10  C5  A1A A 401     -15.898  17.592  -1.745  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  17
+ATOM      8  N3  A1A A 401     -12.579  20.142   0.306  0.00  0.00    +0.000 NA
+ATOM     17  C12 A1A A 401     -12.279  19.038  -0.401  0.00  0.00    +0.000 A 
+ATOM     18  C13 A1A A 401     -11.378  19.045  -1.530  0.00  0.00    +0.000 A 
+ATOM     19  C14 A1A A 401     -10.776  20.263  -1.825  0.00  0.00    +0.000 A 
+ATOM     20  C15 A1A A 401     -11.063  21.392  -1.080  0.00  0.00    +0.000 A 
+ATOM     21  C16 A1A A 401     -11.974  21.290  -0.045  0.00  0.00    +0.000 A 
+ATOM     22  C17 A1A A 401     -11.127  17.835  -2.395  0.00  0.00    +0.000 C 
+ENDBRANCH   3  17
+BRANCH   9  11
+ATOM     11  C6  A1A A 401     -17.151  15.461  -1.436  0.00  0.00    +0.000 C 
+ATOM     12  C7  A1A A 401     -17.477  14.436  -0.347  0.00  0.00    +0.000 C 
+ATOM     13  C8  A1A A 401     -18.783  13.695  -0.645  0.00  0.00    +0.000 C 
+ATOM     14  C9  A1A A 401     -18.760  13.048  -2.025  0.00  0.00    +0.000 C 
+ATOM     15  C10 A1A A 401     -18.397  14.062  -3.107  0.00  0.00    +0.000 C 
+ATOM     16  C11 A1A A 401     -17.078  14.773  -2.802  0.00  0.00    +0.000 C 
+ENDBRANCH   9  11
+TORSDOF 2
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -6.7      4.373      7.664
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\co.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_3  and  C12_17
+REMARK    2  A    between atoms: C4_9  and  C6_11
+REMARK    3  A    between atoms: C13_18  and  C17_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   A1A A 401     -16.845  19.383  -0.771  0.00  0.00    +0.000 NA
+ATOM      2  C   A1A A 401     -15.873  18.718  -1.488  0.00  0.00    +0.000 A 
+ATOM      3  C1  A1A A 401     -16.968  16.578  -1.226  0.00  0.00    +0.000 A 
+ATOM      4  N1  A1A A 401     -15.931  17.355  -1.708  0.00  0.00    +0.000 N 
+ATOM      5  C2  A1A A 401     -17.907  17.237  -0.457  0.00  0.00    +0.000 A 
+ATOM      6  N2  A1A A 401     -14.856  16.880  -2.424  0.00  0.00    +0.000 NA
+ATOM      7  C3  A1A A 401     -17.812  18.621  -0.261  0.00  0.00    +0.000 A 
+ATOM      9  C4  A1A A 401     -14.654  19.139  -2.118  0.00  0.00    +0.000 A 
+ATOM     10  C5  A1A A 401     -14.124  17.956  -2.656  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  17
+ATOM      8  N3  A1A A 401     -17.789  14.888  -2.697  0.00  0.00    +0.000 NA
+ATOM     17  C12 A1A A 401     -16.996  15.176  -1.649  0.00  0.00    +0.000 A 
+ATOM     18  C13 A1A A 401     -16.207  14.181  -0.959  0.00  0.00    +0.000 A 
+ATOM     19  C14 A1A A 401     -16.263  12.891  -1.475  0.00  0.00    +0.000 A 
+ATOM     20  C15 A1A A 401     -17.058  12.601  -2.570  0.00  0.00    +0.000 A 
+ATOM     21  C16 A1A A 401     -17.808  13.617  -3.132  0.00  0.00    +0.000 A 
+ATOM     22  C17 A1A A 401     -15.406  14.478   0.283  0.00  0.00    +0.000 C 
+ENDBRANCH   3  17
+BRANCH   9  11
+ATOM     11  C6  A1A A 401     -13.889  20.417  -2.345  0.00  0.00    +0.000 C 
+ATOM     12  C7  A1A A 401     -13.685  21.258  -1.082  0.00  0.00    +0.000 C 
+ATOM     13  C8  A1A A 401     -12.767  22.454  -1.346  0.00  0.00    +0.000 C 
+ATOM     14  C9  A1A A 401     -13.274  23.307  -2.503  0.00  0.00    +0.000 C 
+ATOM     15  C10 A1A A 401     -13.515  22.462  -3.751  0.00  0.00    +0.000 C 
+ATOM     16  C11 A1A A 401     -14.453  21.287  -3.471  0.00  0.00    +0.000 C 
+ENDBRANCH   9  11
+TORSDOF 2
+ENDMDL

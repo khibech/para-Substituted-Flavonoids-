@@ -1,0 +1,460 @@
+MODEL 1
+REMARK VINA RESULT:      -7.6      0.000      0.000
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\lig3.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_16
+REMARK    2  A    between atoms: O_5  and  C_29
+REMARK    3  A    between atoms: C_20  and  C_27
+REMARK    4  A    between atoms: C_25  and  O_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1     -10.565  16.052   1.076  0.00  0.00    +0.000 A 
+ATOM      2  C   UNK     1      -8.821  17.739   2.213  0.00  0.00    +0.000 A 
+ATOM      3  C   UNK     1      -9.688  17.070   2.994  0.00  0.00    +0.000 A 
+ATOM      4  C   UNK     1     -10.571  16.219   2.413  0.00  0.00    +0.000 A 
+ATOM      9  C   UNK     1      -9.679  16.737   0.331  0.00  0.00    +0.000 A 
+ATOM     10  C   UNK     1     -11.485  15.510   3.140  0.00  0.00    +0.000 A 
+ATOM     11  O   UNK     1     -11.541  15.570   4.355  0.00  0.00    +0.000 OA
+ATOM     13  C   UNK     1      -8.806  17.585   0.885  0.00  0.00    +0.000 A 
+ATOM     16  O   UNK     1     -11.406  15.202   0.432  0.00  0.00    +0.000 OA
+ATOM     18  C   UNK     1     -12.385  14.701   2.496  0.00  0.00    +0.000 A 
+ATOM     20  C   UNK     1     -12.392  14.582   1.148  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  20  14
+ATOM      7  C   UNK     1     -15.423  13.263  -0.415  0.00  0.00    +0.000 A 
+ATOM     14  C   UNK     1     -13.289  13.844   0.433  0.00  0.00    +0.000 A 
+ATOM     15  C   UNK     1     -13.624  12.015  -1.043  0.00  0.00    +0.000 A 
+ATOM     17  C   UNK     1     -12.829  12.806  -0.303  0.00  0.00    +0.000 A 
+ATOM     19  C   UNK     1     -14.619  14.045   0.321  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK     1     -14.947  12.219  -1.108  0.00  0.00    +0.000 A 
+BRANCH  22   5
+ATOM      5  O   UNK     1     -15.764  11.431  -1.857  0.00  0.00    +0.000 OA
+ATOM      6  H   UNK     1     -16.459  11.980  -2.254  0.00  0.00    +0.000 HD
+ENDBRANCH  22   5
+ENDBRANCH  20  14
+BRANCH  18  21
+ATOM      8  H   UNK     1     -14.124  14.139   3.075  0.00  0.00    +0.000 HD
+ATOM     21  O   UNK     1     -13.201  13.986   3.323  0.00  0.00    +0.000 OA
+ENDBRANCH  18  21
+BRANCH   3  12
+ATOM     12  O   UNK     1      -9.615  17.310   4.334  0.00  0.00    +0.000 OA
+ATOM     23  H   UNK     1      -8.786  16.943   4.681  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.6      2.376      6.792
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\lig3.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_16
+REMARK    2  A    between atoms: O_5  and  C_29
+REMARK    3  A    between atoms: C_20  and  C_27
+REMARK    4  A    between atoms: C_25  and  O_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1     -15.165  13.516  -1.005  0.00  0.00    +0.000 A 
+ATOM      2  C   UNK     1     -17.078  12.874  -2.767  0.00  0.00    +0.000 A 
+ATOM      3  C   UNK     1     -17.019  14.133  -2.296  0.00  0.00    +0.000 A 
+ATOM      4  C   UNK     1     -16.050  14.452  -1.401  0.00  0.00    +0.000 A 
+ATOM      9  C   UNK     1     -15.256  12.271  -1.504  0.00  0.00    +0.000 A 
+ATOM     10  C   UNK     1     -15.931  15.707  -0.874  0.00  0.00    +0.000 A 
+ATOM     11  O   UNK     1     -16.663  16.624  -1.199  0.00  0.00    +0.000 OA
+ATOM     13  C   UNK     1     -16.208  11.936  -2.381  0.00  0.00    +0.000 A 
+ATOM     16  O   UNK     1     -14.158  13.773  -0.129  0.00  0.00    +0.000 OA
+ATOM     18  C   UNK     1     -14.962  15.961   0.063  0.00  0.00    +0.000 A 
+ATOM     20  C   UNK     1     -14.111  14.995   0.481  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  20  14
+ATOM      7  C   UNK     1     -11.348  16.214   2.543  0.00  0.00    +0.000 A 
+ATOM     14  C   UNK     1     -13.162  15.155   1.447  0.00  0.00    +0.000 A 
+ATOM     15  C   UNK     1     -12.236  14.334   3.473  0.00  0.00    +0.000 A 
+ATOM     17  C   UNK     1     -13.129  14.271   2.471  0.00  0.00    +0.000 A 
+ATOM     19  C   UNK     1     -12.244  16.140   1.546  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK     1     -11.314  15.305   3.527  0.00  0.00    +0.000 A 
+BRANCH  22   5
+ATOM      5  O   UNK     1     -10.408  15.386   4.539  0.00  0.00    +0.000 OA
+ATOM      6  H   UNK     1     -10.032  14.506   4.699  0.00  0.00    +0.000 HD
+ENDBRANCH  22   5
+ENDBRANCH  20  14
+BRANCH  18  21
+ATOM      8  H   UNK     1     -15.595  17.443   1.100  0.00  0.00    +0.000 HD
+ATOM     21  O   UNK     1     -14.887  17.262   0.465  0.00  0.00    +0.000 OA
+ENDBRANCH  18  21
+BRANCH   3  12
+ATOM     12  O   UNK     1     -17.961  15.004  -2.757  0.00  0.00    +0.000 OA
+ATOM     23  H   UNK     1     -18.646  14.511  -3.237  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.5      2.047      2.750
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\lig3.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_16
+REMARK    2  A    between atoms: O_5  and  C_29
+REMARK    3  A    between atoms: C_20  and  C_27
+REMARK    4  A    between atoms: C_25  and  O_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1     -12.148  16.283   0.674  0.00  0.00    +0.000 A 
+ATOM      2  C   UNK     1     -10.201  16.893   2.410  0.00  0.00    +0.000 A 
+ATOM      3  C   UNK     1     -10.991  15.834   2.660  0.00  0.00    +0.000 A 
+ATOM      4  C   UNK     1     -11.977  15.531   1.779  0.00  0.00    +0.000 A 
+ATOM      9  C   UNK     1     -11.333  17.331   0.460  0.00  0.00    +0.000 A 
+ATOM     10  C   UNK     1     -12.823  14.474   1.968  0.00  0.00    +0.000 A 
+ATOM     11  O   UNK     1     -12.722  13.719   2.919  0.00  0.00    +0.000 OA
+ATOM     13  C   UNK     1     -10.360  17.650   1.319  0.00  0.00    +0.000 A 
+ATOM     16  O   UNK     1     -13.101  16.023  -0.258  0.00  0.00    +0.000 OA
+ATOM     18  C   UNK     1     -13.832  14.243   1.070  0.00  0.00    +0.000 A 
+ATOM     20  C   UNK     1     -14.015  15.037  -0.010  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  20  14
+ATOM      7  C   UNK     1     -16.154  13.977  -2.780  0.00  0.00    +0.000 A 
+ATOM     14  C   UNK     1     -15.026  14.906  -0.915  0.00  0.00    +0.000 A 
+ATOM     15  C   UNK     1     -17.171  15.648  -1.613  0.00  0.00    +0.000 A 
+ATOM     17  C   UNK     1     -16.119  15.693  -0.779  0.00  0.00    +0.000 A 
+ATOM     19  C   UNK     1     -15.108  14.033  -1.941  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK     1     -17.209  14.792  -2.644  0.00  0.00    +0.000 A 
+BRANCH  22   5
+ATOM      5  O   UNK     1     -18.269  14.730  -3.493  0.00  0.00    +0.000 OA
+ATOM      6  H   UNK     1     -19.007  14.282  -3.048  0.00  0.00    +0.000 HD
+ENDBRANCH  22   5
+ENDBRANCH  20  14
+BRANCH  18  21
+ATOM      8  H   UNK     1     -14.235  12.393   0.773  0.00  0.00    +0.000 HD
+ATOM     21  O   UNK     1     -14.568  13.121   1.317  0.00  0.00    +0.000 OA
+ENDBRANCH  18  21
+BRANCH   3  12
+ATOM     12  O   UNK     1     -10.738  15.139   3.805  0.00  0.00    +0.000 OA
+ATOM     23  H   UNK     1     -10.469  15.758   4.504  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -7.4      1.406      6.567
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\lig3.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_16
+REMARK    2  A    between atoms: O_5  and  C_29
+REMARK    3  A    between atoms: C_20  and  C_27
+REMARK    4  A    between atoms: C_25  and  O_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1     -14.669  13.971   0.163  0.00  0.00    +0.000 A 
+ATOM      2  C   UNK     1     -16.407  12.667  -1.405  0.00  0.00    +0.000 A 
+ATOM      3  C   UNK     1     -15.152  12.198  -1.289  0.00  0.00    +0.000 A 
+ATOM      4  C   UNK     1     -14.275  12.864  -0.497  0.00  0.00    +0.000 A 
+ATOM      9  C   UNK     1     -15.935  14.404   0.023  0.00  0.00    +0.000 A 
+ATOM     10  C   UNK     1     -12.982  12.451  -0.334  0.00  0.00    +0.000 A 
+ATOM     11  O   UNK     1     -12.547  11.443  -0.861  0.00  0.00    +0.000 OA
+ATOM     13  C   UNK     1     -16.811  13.766  -0.759  0.00  0.00    +0.000 A 
+ATOM     16  O   UNK     1     -13.849  14.673   0.988  0.00  0.00    +0.000 OA
+ATOM     18  C   UNK     1     -12.126  13.189   0.441  0.00  0.00    +0.000 A 
+ATOM     20  C   UNK     1     -12.529  14.324   1.059  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  20  14
+ATOM      7  C   UNK     1     -10.809  16.054   3.782  0.00  0.00    +0.000 A 
+ATOM     14  C   UNK     1     -11.725  15.140   1.797  0.00  0.00    +0.000 A 
+ATOM     15  C   UNK     1     -10.026  16.798   1.777  0.00  0.00    +0.000 A 
+ATOM     17  C   UNK     1     -10.861  15.955   1.148  0.00  0.00    +0.000 A 
+ATOM     19  C   UNK     1     -11.640  15.216   3.143  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK     1      -9.987  16.876   3.114  0.00  0.00    +0.000 A 
+BRANCH  22   5
+ATOM      5  O   UNK     1      -9.143  17.720   3.765  0.00  0.00    +0.000 OA
+ATOM      6  H   UNK     1      -9.007  17.398   4.671  0.00  0.00    +0.000 HD
+ENDBRANCH  22   5
+ENDBRANCH  20  14
+BRANCH  18  21
+ATOM      8  H   UNK     1     -10.499  12.953   1.427  0.00  0.00    +0.000 HD
+ATOM     21  O   UNK     1     -10.884  12.647   0.593  0.00  0.00    +0.000 OA
+ENDBRANCH  18  21
+BRANCH   3  12
+ATOM     12  O   UNK     1     -14.852  11.073  -1.997  0.00  0.00    +0.000 OA
+ATOM     23  H   UNK     1     -14.204  11.292  -2.688  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.3      2.664      3.512
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\lig3.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_16
+REMARK    2  A    between atoms: O_5  and  C_29
+REMARK    3  A    between atoms: C_20  and  C_27
+REMARK    4  A    between atoms: C_25  and  O_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1     -13.818  16.601  -0.360  0.00  0.00    +0.000 A 
+ATOM      2  C   UNK     1     -11.726  17.969   0.605  0.00  0.00    +0.000 A 
+ATOM      3  C   UNK     1     -12.015  16.763   1.126  0.00  0.00    +0.000 A 
+ATOM      4  C   UNK     1     -13.077  16.076   0.636  0.00  0.00    +0.000 A 
+ATOM      9  C   UNK     1     -13.492  17.808  -0.855  0.00  0.00    +0.000 A 
+ATOM     10  C   UNK     1     -13.436  14.848   1.119  0.00  0.00    +0.000 A 
+ATOM     11  O   UNK     1     -12.805  14.280   1.992  0.00  0.00    +0.000 OA
+ATOM     13  C   UNK     1     -12.453  18.503  -0.381  0.00  0.00    +0.000 A 
+ATOM     16  O   UNK     1     -14.880  15.958  -0.910  0.00  0.00    +0.000 OA
+ATOM     18  C   UNK     1     -14.547  14.220   0.619  0.00  0.00    +0.000 A 
+ATOM     20  C   UNK     1     -15.304  14.785  -0.350  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  20  14
+ATOM      7  C   UNK     1     -18.725  13.583  -0.826  0.00  0.00    +0.000 A 
+ATOM     14  C   UNK     1     -16.451  14.251  -0.857  0.00  0.00    +0.000 A 
+ATOM     15  C   UNK     1     -17.528  13.287  -2.741  0.00  0.00    +0.000 A 
+ATOM     17  C   UNK     1     -16.454  13.829  -2.143  0.00  0.00    +0.000 A 
+ATOM     19  C   UNK     1     -17.645  14.122  -0.239  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK     1     -18.690  13.141  -2.091  0.00  0.00    +0.000 A 
+BRANCH  22   5
+ATOM      5  O   UNK     1     -19.788  12.601  -2.685  0.00  0.00    +0.000 OA
+ATOM      6  H   UNK     1     -20.316  12.136  -2.016  0.00  0.00    +0.000 HD
+ENDBRANCH  22   5
+ENDBRANCH  20  14
+BRANCH  18  21
+ATOM      8  H   UNK     1     -15.665  12.924   1.480  0.00  0.00    +0.000 HD
+ATOM     21  O   UNK     1     -14.768  12.971   1.120  0.00  0.00    +0.000 OA
+ENDBRANCH  18  21
+BRANCH   3  12
+ATOM     12  O   UNK     1     -11.207  16.321   2.131  0.00  0.00    +0.000 OA
+ATOM     23  H   UNK     1     -10.614  17.039   2.406  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -7.2      2.043      6.507
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\lig3.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_16
+REMARK    2  A    between atoms: O_5  and  C_29
+REMARK    3  A    between atoms: C_20  and  C_27
+REMARK    4  A    between atoms: C_25  and  O_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1     -15.293  16.082  -0.039  0.00  0.00    +0.000 A 
+ATOM      2  C   UNK     1     -17.431  15.395  -1.501  0.00  0.00    +0.000 A 
+ATOM      3  C   UNK     1     -16.626  14.428  -1.026  0.00  0.00    +0.000 A 
+ATOM      4  C   UNK     1     -15.543  14.782  -0.288  0.00  0.00    +0.000 A 
+ATOM      9  C   UNK     1     -16.126  17.017  -0.530  0.00  0.00    +0.000 A 
+ATOM     10  C   UNK     1     -14.677  13.856   0.224  0.00  0.00    +0.000 A 
+ATOM     11  O   UNK     1     -14.841  12.658   0.080  0.00  0.00    +0.000 OA
+ATOM     13  C   UNK     1     -17.194  16.689  -1.265  0.00  0.00    +0.000 A 
+ATOM     16  O   UNK     1     -14.241  16.504   0.708  0.00  0.00    +0.000 OA
+ATOM     18  C   UNK     1     -13.573  14.273   0.921  0.00  0.00    +0.000 A 
+ATOM     20  C   UNK     1     -13.315  15.586   1.122  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  20  14
+ATOM      7  C   UNK     1     -10.685  16.347   3.544  0.00  0.00    +0.000 A 
+ATOM     14  C   UNK     1     -12.212  16.079   1.754  0.00  0.00    +0.000 A 
+ATOM     15  C   UNK     1     -10.275  17.441   1.589  0.00  0.00    +0.000 A 
+ATOM     17  C   UNK     1     -11.386  16.899   1.064  0.00  0.00    +0.000 A 
+ATOM     19  C   UNK     1     -11.793  15.813   3.009  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK     1      -9.902  17.185   2.851  0.00  0.00    +0.000 A 
+BRANCH  22   5
+ATOM      5  O   UNK     1      -8.776  17.720   3.394  0.00  0.00    +0.000 OA
+ATOM      6  H   UNK     1      -8.100  17.028   3.471  0.00  0.00    +0.000 HD
+ENDBRANCH  22   5
+ENDBRANCH  20  14
+BRANCH  18  21
+ATOM      8  H   UNK     1     -11.964  13.233   0.995  0.00  0.00    +0.000 HD
+ATOM     21  O   UNK     1     -12.819  13.265   1.448  0.00  0.00    +0.000 OA
+ENDBRANCH  18  21
+BRANCH   3  12
+ATOM     12  O   UNK     1     -16.963  13.144  -1.334  0.00  0.00    +0.000 OA
+ATOM     23  H   UNK     1     -16.714  12.959  -2.255  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -7.2      1.566      6.520
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\lig3.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_16
+REMARK    2  A    between atoms: O_5  and  C_29
+REMARK    3  A    between atoms: C_20  and  C_27
+REMARK    4  A    between atoms: C_25  and  O_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1     -12.273  11.837  -0.943  0.00  0.00    +0.000 A 
+ATOM      2  C   UNK     1     -13.258   9.954  -2.574  0.00  0.00    +0.000 A 
+ATOM      3  C   UNK     1     -14.110  10.765  -1.922  0.00  0.00    +0.000 A 
+ATOM      4  C   UNK     1     -13.606  11.714  -1.094  0.00  0.00    +0.000 A 
+ATOM      9  C   UNK     1     -11.455  11.009  -1.617  0.00  0.00    +0.000 A 
+ATOM     10  C   UNK     1     -14.409  12.571  -0.394  0.00  0.00    +0.000 A 
+ATOM     11  O   UNK     1     -15.623  12.557  -0.494  0.00  0.00    +0.000 OA
+ATOM     13  C   UNK     1     -11.933  10.063  -2.431  0.00  0.00    +0.000 A 
+ATOM     16  O   UNK     1     -11.701  12.779  -0.148  0.00  0.00    +0.000 OA
+ATOM     18  C   UNK     1     -13.847  13.480   0.465  0.00  0.00    +0.000 A 
+ATOM     20  C   UNK     1     -12.507  13.556   0.637  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  20  14
+ATOM      7  C   UNK     1     -11.250  15.221   3.641  0.00  0.00    +0.000 A 
+ATOM     14  C   UNK     1     -11.878  14.392   1.511  0.00  0.00    +0.000 A 
+ATOM     15  C   UNK     1     -10.412  16.240   1.784  0.00  0.00    +0.000 A 
+ATOM     17  C   UNK     1     -11.077  15.363   1.014  0.00  0.00    +0.000 A 
+ATOM     19  C   UNK     1     -11.911  14.352   2.860  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK     1     -10.492  16.196   3.121  0.00  0.00    +0.000 A 
+BRANCH  22   5
+ATOM      5  O   UNK     1      -9.819  17.072   3.914  0.00  0.00    +0.000 OA
+ATOM      6  H   UNK     1     -10.458  17.606   4.413  0.00  0.00    +0.000 HD
+ENDBRANCH  22   5
+ENDBRANCH  20  14
+BRANCH  18  21
+ATOM      8  H   UNK     1     -14.825  15.127   0.512  0.00  0.00    +0.000 HD
+ATOM     21  O   UNK     1     -14.735  14.330   1.055  0.00  0.00    +0.000 OA
+ENDBRANCH  18  21
+BRANCH   3  12
+ATOM     12  O   UNK     1     -15.440  10.559  -2.141  0.00  0.00    +0.000 OA
+ATOM     23  H   UNK     1     -15.553   9.798  -2.734  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.9      3.592      5.141
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\lig3.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_16
+REMARK    2  A    between atoms: O_5  and  C_29
+REMARK    3  A    between atoms: C_20  and  C_27
+REMARK    4  A    between atoms: C_25  and  O_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1     -12.776  15.443   1.454  0.00  0.00    +0.000 A 
+ATOM      2  C   UNK     1     -11.026  13.648   2.401  0.00  0.00    +0.000 A 
+ATOM      3  C   UNK     1     -11.417  13.565   1.117  0.00  0.00    +0.000 A 
+ATOM      4  C   UNK     1     -12.306  14.474   0.644  0.00  0.00    +0.000 A 
+ATOM      9  C   UNK     1     -12.355  15.493   2.731  0.00  0.00    +0.000 A 
+ATOM     10  C   UNK     1     -12.755  14.450  -0.647  0.00  0.00    +0.000 A 
+ATOM     11  O   UNK     1     -12.360  13.634  -1.460  0.00  0.00    +0.000 OA
+ATOM     13  C   UNK     1     -11.485  14.602   3.217  0.00  0.00    +0.000 A 
+ATOM     16  O   UNK     1     -13.650  16.396   1.040  0.00  0.00    +0.000 OA
+ATOM     18  C   UNK     1     -13.690  15.364  -1.058  0.00  0.00    +0.000 A 
+ATOM     20  C   UNK     1     -14.183  16.301  -0.215  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  20  14
+ATOM      7  C   UNK     1     -16.034  19.183  -1.494  0.00  0.00    +0.000 A 
+ATOM     14  C   UNK     1     -15.152  17.206  -0.533  0.00  0.00    +0.000 A 
+ATOM     15  C   UNK     1     -17.459  17.760  -0.430  0.00  0.00    +0.000 A 
+ATOM     17  C   UNK     1     -16.428  16.939  -0.169  0.00  0.00    +0.000 A 
+ATOM     19  C   UNK     1     -15.013  18.355  -1.227  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK     1     -17.284  18.912  -1.092  0.00  0.00    +0.000 A 
+BRANCH  22   5
+ATOM      5  O   UNK     1     -18.318  19.751  -1.370  0.00  0.00    +0.000 OA
+ATOM      6  H   UNK     1     -18.087  20.298  -2.137  0.00  0.00    +0.000 HD
+ENDBRANCH  22   5
+ENDBRANCH  20  14
+BRANCH  18  21
+ATOM      8  H   UNK     1     -13.314  14.819  -2.857  0.00  0.00    +0.000 HD
+ATOM     21  O   UNK     1     -14.011  15.294  -2.382  0.00  0.00    +0.000 OA
+ENDBRANCH  18  21
+BRANCH   3  12
+ATOM     12  O   UNK     1     -10.887  12.549   0.380  0.00  0.00    +0.000 OA
+ATOM     23  H   UNK     1     -11.416  12.425  -0.424  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.6      4.791      7.399
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\lig3.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_16
+REMARK    2  A    between atoms: O_5  and  C_29
+REMARK    3  A    between atoms: C_20  and  C_27
+REMARK    4  A    between atoms: C_25  and  O_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1     -16.376  15.483  -1.784  0.00  0.00    +0.000 A 
+ATOM      2  C   UNK     1     -16.656  12.862  -1.301  0.00  0.00    +0.000 A 
+ATOM      3  C   UNK     1     -15.843  13.589  -0.513  0.00  0.00    +0.000 A 
+ATOM      4  C   UNK     1     -15.703  14.915  -0.764  0.00  0.00    +0.000 A 
+ATOM      9  C   UNK     1     -17.182  14.721  -2.545  0.00  0.00    +0.000 A 
+ATOM     10  C   UNK     1     -14.891  15.717  -0.011  0.00  0.00    +0.000 A 
+ATOM     11  O   UNK     1     -14.272  15.299   0.951  0.00  0.00    +0.000 OA
+ATOM     13  C   UNK     1     -17.328  13.411  -2.318  0.00  0.00    +0.000 A 
+ATOM     16  O   UNK     1     -16.298  16.807  -2.077  0.00  0.00    +0.000 OA
+ATOM     18  C   UNK     1     -14.750  17.040  -0.339  0.00  0.00    +0.000 A 
+ATOM     20  C   UNK     1     -15.401  17.581  -1.396  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  20  14
+ATOM      7  C   UNK     1     -15.877  21.151  -2.028  0.00  0.00    +0.000 A 
+ATOM     14  C   UNK     1     -15.269  18.870  -1.818  0.00  0.00    +0.000 A 
+ATOM     15  C   UNK     1     -13.942  20.444  -3.001  0.00  0.00    +0.000 A 
+ATOM     17  C   UNK     1     -14.171  19.205  -2.535  0.00  0.00    +0.000 A 
+ATOM     19  C   UNK     1     -16.095  19.909  -1.570  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK     1     -14.798  21.448  -2.766  0.00  0.00    +0.000 A 
+BRANCH  22   5
+ATOM      5  O   UNK     1     -14.577  22.709  -3.226  0.00  0.00    +0.000 OA
+ATOM      6  H   UNK     1     -13.652  22.952  -3.056  0.00  0.00    +0.000 HD
+ENDBRANCH  22   5
+ENDBRANCH  20  14
+BRANCH  18  21
+ATOM      8  H   UNK     1     -13.141  17.294   0.670  0.00  0.00    +0.000 HD
+ATOM     21  O   UNK     1     -13.976  17.761   0.522  0.00  0.00    +0.000 OA
+ENDBRANCH  18  21
+BRANCH   3  12
+ATOM     12  O   UNK     1     -15.206  12.921   0.490  0.00  0.00    +0.000 OA
+ATOM     23  H   UNK     1     -14.390  13.394   0.722  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+TORSDOF 4
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -6.6      4.792      6.711
+REMARK  Name = C:\Users\hp\OneDrive\Bureau\molecule article\SERIE MRZK\SERIE 4 A\DOC.9C8Q\lig3.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_16
+REMARK    2  A    between atoms: O_5  and  C_29
+REMARK    3  A    between atoms: C_20  and  C_27
+REMARK    4  A    between atoms: C_25  and  O_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1     -14.756  14.097  -1.757  0.00  0.00    +0.000 A 
+ATOM      2  C   UNK     1     -16.472  16.127  -2.097  0.00  0.00    +0.000 A 
+ATOM      3  C   UNK     1     -16.894  14.869  -2.322  0.00  0.00    +0.000 A 
+ATOM      4  C   UNK     1     -16.020  13.846  -2.151  0.00  0.00    +0.000 A 
+ATOM      9  C   UNK     1     -14.376  15.369  -1.539  0.00  0.00    +0.000 A 
+ATOM     10  C   UNK     1     -16.374  12.542  -2.366  0.00  0.00    +0.000 A 
+ATOM     11  O   UNK     1     -17.502  12.217  -2.689  0.00  0.00    +0.000 OA
+ATOM     13  C   UNK     1     -15.220  16.391  -1.709  0.00  0.00    +0.000 A 
+ATOM     16  O   UNK     1     -13.837  13.119  -1.547  0.00  0.00    +0.000 OA
+ATOM     18  C   UNK     1     -15.437  11.552  -2.224  0.00  0.00    +0.000 A 
+ATOM     20  C   UNK     1     -14.160  11.830  -1.872  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  20  14
+ATOM      7  C   UNK     1     -11.963   9.120  -0.778  0.00  0.00    +0.000 A 
+ATOM     14  C   UNK     1     -13.160  10.910  -1.766  0.00  0.00    +0.000 A 
+ATOM     15  C   UNK     1     -11.213   9.974  -2.752  0.00  0.00    +0.000 A 
+ATOM     17  C   UNK     1     -12.239  10.841  -2.756  0.00  0.00    +0.000 A 
+ATOM     19  C   UNK     1     -12.983   9.992  -0.792  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK     1     -11.044   9.096  -1.754  0.00  0.00    +0.000 A 
+BRANCH  22   5
+ATOM      5  O   UNK     1     -10.015   8.207  -1.739  0.00  0.00    +0.000 OA
+ATOM      6  H   UNK     1     -10.064   7.677  -0.928  0.00  0.00    +0.000 HD
+ENDBRANCH  22   5
+ENDBRANCH  20  14
+BRANCH  18  21
+ATOM      8  H   UNK     1     -15.821  10.026  -3.318  0.00  0.00    +0.000 HD
+ATOM     21  O   UNK     1     -15.916  10.286  -2.391  0.00  0.00    +0.000 OA
+ENDBRANCH  18  21
+BRANCH   3  12
+ATOM     12  O   UNK     1     -18.189  14.720  -2.719  0.00  0.00    +0.000 OA
+ATOM     23  H   UNK     1     -18.742  15.375  -2.262  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+TORSDOF 4
+ENDMDL
